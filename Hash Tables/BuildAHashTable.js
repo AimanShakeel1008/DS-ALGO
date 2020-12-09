@@ -18,6 +18,8 @@ set(key,value){
         this.data[address]=[];
     }
     this.data[address].push([key,value]);
+
+    return this.data;
 } //this O(1) as there is no iterations
 
 get(key){
