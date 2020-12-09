@@ -1,0 +1,17 @@
+JavaScript-Objects (ES6 Map & Set) (In objects only Strings can be keys, In Map functions or Arrays can also be keys. Also Map maintains the insertion order.)
+Python-Dictionary
+Java-Map
+
+Hash Functions
+MD5
+SHA-1
+SHA-256
+Hash Functions in different Languages or framework are usually assumed to O(1) complexity.
+
+insert-O(1)
+lookup-O(1)
+delete-O(1)
+search-O(1)
+
+Collision- slows down reading and writing by O(n/k)
+Collision resolved by Linked List (Separate chaining)
