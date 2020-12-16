@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 /*Design a HashSet without using any built-in hash table libraries.
 
 To be specific, your design should include these functions:
